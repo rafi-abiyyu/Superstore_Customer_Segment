@@ -1,8 +1,8 @@
 # Superstore_Customer_Segment
 
-Proyek ini bertujuan untuk memahami perilaku pelanggan di sebuah supermarket besar menggunakan pendekatan berbasis data. Langkah-langkah yang dilakukan meliputi pembersihan data, analisis segmentasi menggunakan metode RFM (Recency, Frequency, Monetary), serta identifikasi masalah dan penyusunan solusi yang bersumber dari data.
+This project aims to analyze customer behavior in a major supermarket through a data-driven methodology. The workflow includes data cleaning, segmentation analysis using the RFM (Recency, Frequency, Monetary) framework, and examining key problems through the lens of customer segmentation. Based on these insights, I designed a tiered campaign strategy  to different customer segments.
 
-Hasil analisis disajikan dalam tiga bentuk:
+The results of the analysis are presented in three forms:
 
 Jupyter Notebook (.ipynb)--
 
